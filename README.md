@@ -61,6 +61,6 @@ Actuellement en **BTS SIO (option SISR)**, je consolide mes bases théoriques to
 
 ### 🤝 Contact & Liens
 
-* 🌍 **Portfolio :** [trtnxbook.com](https://www.google.com/search?q=https://www.trtnxbook.com)
+* 🌍 **Portfolio :** [trxtxbook.com](https://trxtxbook.com/)
 * 💼 **LinkedIn :** [Tristan Barry](https://www.linkedin.com/in/tristan-barry-43b91b330/)
 * 🛡️ **Profil HackTheBox :** [User 2129647](https://app.hackthebox.com/users/2129647)
