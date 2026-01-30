@@ -9,6 +9,7 @@
 
 * 🛡️ **HTB Certified Penetration Testing Specialist (CPTS) :** Validation des compétences en tests d'intrusion (Active Directory, Web, PrivEsc, Pivoting).
 * 📈 **HackTheBox :** Pratique intensive sur machines de niveau intermédiaire/avancé avec un focus sur les environnements **Enterprise**.
+* ☁️ **Microsoft Certified: Azure Fundamentals (AZ-900) :** Maîtrise des concepts Cloud (IaaS/PaaS/SaaS), de la sécurité des infrastructures hybrides et de la gestion des identités via Microsoft Entra ID.
 * 🌐 **Infrastructure :** Expertise préalable en maintenance et audit de réseaux fibre optique.
 
 ---
@@ -43,7 +44,6 @@ Actuellement en **BTS SIO (option SISR)**, je consolide mes bases théoriques to
 * **Hackthebox :** CPTS et box - ProHacker
 
 * **Certifications en préparation :**
-* Microsoft Azure (**AZ-900** / **SC-900**)
 * Cisco **CCNA**
 * Objectif long terme : **OSCP** / **OSEP**
 
