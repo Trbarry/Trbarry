@@ -38,9 +38,9 @@
 Actuellement en **BTS SIO (option SISR)**, je consolide mes bases théoriques tout en visant les standards industriels.
 
 * **Plateformes de recherche :**
-* **Root-Me :** Challenges Web Client et GraphQL.
-* **TryHackMe :** Validation des parcours de spécialisation réseau.
-
+* **Root-Me :** Challenge divers - 2000 points
+* **TryHackMe :** Validation de tout les learning path offensif
+* **Hackthebox :** CPTS et box - ProHacker
 
 * **Certifications en préparation :**
 * Microsoft Azure (**AZ-900** / **SC-900**)
