@@ -1,32 +1,32 @@
-# 👨‍💻 Tristan | Apprenti Cybersécurité & Infrastructures
+# Tristan | Analyste Cybersécurité & Infrastructures
 
 > **"Une journée sans apprendre est une journée perdue."**
-> Fort d'une expérience de terrain dans les infrastructures de réseaux fibre optique, je m'investis aujourd'hui dans une spécialisation en administration système et sécurité offensive. Ma démarche privilégie la **compréhension profonde** des vecteurs d'attaque et une **rigueur documentaire** constante.
+> Fort d'une expérience de terrain dans les infrastructures de réseaux fibre optique, je me spécialise aujourd'hui dans l'administration système et la sécurité offensive. Ma démarche privilégie la **compréhension profonde** des vecteurs d'attaque, la rigueur documentaire et l'automatisation.
 
 ---
 
-### 🏆 Certifications & Réalisations Majeures
+### Certifications et Réalisations
 
-* 🛡️ **HTB Certified Penetration Testing Specialist (CPTS) :** Validation des compétences en tests d'intrusion (Active Directory, Web, PrivEsc, Pivoting).
-* 📈 **HackTheBox :** Pratique intensive sur machines de niveau intermédiaire/avancé avec un focus sur les environnements **Enterprise**.
-* ☁️ **Microsoft Certified: Azure Fundamentals (AZ-900) :** Maîtrise des concepts Cloud (IaaS/PaaS/SaaS), de la sécurité des infrastructures hybrides et de la gestion des identités via Microsoft Entra ID.
-* 🌐 **Infrastructure :** Expertise préalable en maintenance et audit de réseaux fibre optique.
-
----
-
-### 🛡️ Approche & Méthodologie
-
-* **Analyse des fondamentaux :** Étude systématique des protocoles et des services avant toute phase d'exploitation.
-* **Capitalisation des connaissances :** Documentation structurée sous **Obsidian** et utilisation d'**Anki** pour la rétention technique à long terme.
-* **Engagement :** Travail quotidien soutenu en parallèle du cursus académique et professionnel.
+* **HTB Certified Penetration Testing Specialist (CPTS)** : Validation des compétences en tests d'intrusion (Active Directory, Web, PrivEsc, Pivoting).
+* **HackTheBox** : Pratique intensive sur environnements **Enterprise** (Niveau Pro Hacker).
+* **Microsoft Certified: Azure Fundamentals (AZ-900)** : Maîtrise des concepts Cloud, sécurité hybride et gestion des identités via **Microsoft Entra ID**.
+* **Expertise Réseau** : Maintenance et audit d'infrastructures critiques de fibre optique.
 
 ---
 
-### 💻 Environnement Technique
+### Méthodologie et Approche Technique
 
-| Catégorie | Technologies maîtrisées & utilisées |
+* **Analyse des fondamentaux** : Étude systématique des protocoles et services avant toute phase d'exploitation.
+* **Capitalisation des connaissances** : Documentation structurée sous **Obsidian** et utilisation d'**Anki** pour la rétention technique à long terme.
+* **Veille active** : Travail quotidien soutenu en parallèle des engagements académiques et professionnels (BTS SIO SISR).
+
+---
+
+### Environnement Technique
+
+| Catégorie | Technologies et Outils |
 | --- | --- |
-| **Systèmes** | **Arch Linux** (Hyprland), Debian, Windows Server |
+| **Systèmes** | Arch Linux, Fedora, Debian, Windows Server |
 | **Sécurité** | Environnement **Exegol**, Metasploit, Burp Suite, BloodHound |
 | **Active Directory** | GPO, délégations Kerberos, gMSA, LAPS, Entra ID |
 | **Réseaux** | Architecture LAN/WAN, routage, infrastructures fibre optique |
@@ -34,33 +34,26 @@
 
 ---
 
-### 📚 Parcours & Objectifs académiques
+### Parcours de Certification en cours
 
-Actuellement en **BTS SIO (option SISR)**, je consolide mes bases théoriques tout en visant les standards industriels.
-
-* **Plateformes de recherche :**
-* **Root-Me :** Challenge divers - 2000 points
-* **TryHackMe :** Validation de tout les learning path offensif
-* **Hackthebox :** CPTS et box - ProHacker
-
-* **Certifications en préparation :**
-* Cisco **CCNA**
-* Objectif long terme : **OSCP** / **OSEP**
-
-
+* **Cisco CCNA** (Validation des bases Networking)
+* **OSCP / OSEP** (Objectifs à moyen terme)
+* **Root-Me** : Spécialisation Web Client / Logique d'application (2000+ points)
 
 ---
 
-### 📂 Projets & Travaux
+### Projets et Travaux de Recherche
 
-* **Lab Hybride :** Déploiement d'un environnement Active Directory / Entra ID pour l'étude des vulnérabilités de configuration.
-* **Cheatsheets Pro :** Élaboration de guides techniques optimisés pour les flux de travail sous **Exegol**.
-* **Scripts d'administration :** Développement d'outils en Python pour l'automatisation de la gestion d'identités.
+* **Lab Hybride** : Déploiement d'un environnement Active Directory / Entra ID dédié à l'étude des vulnérabilités de configuration.
+* **Documentation Technique** : Élaboration de **cheatsheets professionnelles** optimisées pour les workflows sous Exegol.
+* **Scripts d'administration** : Développement d'outils Python pour l'automatisation de la gestion d'identités (Identity Governance).
 
 ---
 
-### 🤝 Contact & Liens
+### Contact et Ressources
 
-* 🌍 **Portfolio :** [trxtxbook.com](https://trxtxbook.com/)
-* 💼 **LinkedIn :** [Tristan Barry](https://www.linkedin.com/in/tristan-barry-43b91b330/)
-* 🛡️ **Profil HackTheBox :** (https://app.hackthebox.com/users/2129647)
+* **Portfolio** : [trxtxbook.com](https://trxtxbook.com/)
+* **LinkedIn** : [Tristan Barry](https://www.linkedin.com/in/tristan-barry-43b91b330/)
+* **HackTheBox** : [Profil Utilisateur](https://app.hackthebox.com/users/2129647)
+
+---
