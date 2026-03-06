@@ -1,4 +1,4 @@
-# Tristan | Analyste Cybersécurité & Infrastructures
+# Tristan | Technicien/Administrateur réseau | cybersécurité
 
 > **"Une journée sans apprendre est une journée perdue."**
 > Fort d'une expérience de terrain dans les infrastructures de réseaux fibre optique, je me spécialise aujourd'hui dans l'administration système et la sécurité offensive. Ma démarche privilégie la **compréhension profonde** des vecteurs d'attaque, la rigueur documentaire et l'automatisation.
